@@ -10,18 +10,3 @@ O projeto é composto pelos seguintes serviços:
 2. **Backend**: API RESTful em Node.js com Express, responsável por gerenciar as operações de CRUD.
 3. **API Externa**: API simulada em Flask para fornecer dados fictícios.
 4. **Banco de Dados**: PostgreSQL para persistência de dados, com inicialização automática.
-
-## Como Rodar o Projeto
-
-### Pré-requisitos
-
-- Docker
-- Docker Compose
-
-### Passos para rodar
-
-1. Clone o repositório:
-
-   ```bash
-   git clone https://github.com/usuario/meu-projeto.git
-   cd meu-projeto
